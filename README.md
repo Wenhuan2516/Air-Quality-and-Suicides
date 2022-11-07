@@ -13,6 +13,8 @@
 
 ### This is using a pie graph to show the percentages of counties that suicide rates increased or decreased by comparing period 4 and period 1
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide4.png" alt="Suicide distribution" title="Suicide Distribution">
+
+### This is using Linear Regression method to see the associations between suicide rates and PM2.5 in period 1-2001 to 2005
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide5.png" alt="Suicide distribution" title="Suicide Distribution">
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide6.png" alt="Suicide distribution" title="Suicide Distribution">
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide7.png" alt="Suicide distribution" title="Suicide Distribution">
