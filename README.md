@@ -8,8 +8,10 @@
 #### This is plotting the suicide rates of suicide rates in period-2001 to 2005 on the map by using Python Plotly package 
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide2.png" alt="Suicide distribution" title="Suicide Distribution">
 
-
+### This is to show the suicide increate rates in the different intervals 
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide3.png" alt="Suicide distribution" title="Suicide Distribution">
+
+### This is using a pie graph to show the percentages of counties that suicide rates increased or decreased by comparing period 4 and period 1
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide4.png" alt="Suicide distribution" title="Suicide Distribution">
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide5.png" alt="Suicide distribution" title="Suicide Distribution">
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide6.png" alt="Suicide distribution" title="Suicide Distribution">
