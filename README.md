@@ -1,5 +1,5 @@
-### This is created by Python Jupyter notebook, however, the notebook is too big to upload to Github
-### Here I created PPT and poster to describe my project and the followings are some of the plots I created in this Jupyter Notebook
+## This is created by Python Jupyter notebook, however, the notebook is too big to upload to Github
+## Here I created PPT and poster to describe my project and the followings are some of the plots I created in this Jupyter Notebook. The poster was selected as one of the best posters in Georgia Institute of Technology's Women in High-Performance Computing Organization 
 ### If you are interested in how I created the plots or graphs, please send a email to wenhuan.tan@bellevuecollege.edu to get the full coding part
 ### The data are divided to 4 periods: period 1 - 2001 to 2005; period 2 - 2006 to 2010; period 3 - 2010 to 2015; period 4 - 2016 to 2019
 
