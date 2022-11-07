@@ -11,4 +11,4 @@
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide8.png" alt="Suicide distribution" title="Suicide Distribution">
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide9.png" alt="Suicide distribution" title="Suicide Distribution">
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide10.png" alt="Suicide distribution" title="Suicide Distribution">
-<img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide11.png" alt="Suicide distribution" title="Suicide Distribution">
+<img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/increasemapresult.png" alt="Suicide distribution" title="Suicide Distribution">
