@@ -37,3 +37,8 @@
 ### This is using a map to display the suicide increate rate by comparing period 4 to period 1 in the USA 
 <img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/increasemapresult.png" alt="Suicide distribution" title="Suicide Distribution">
 
+## The results from this Jupyter Notebook/Python code are as shown as the poster here
+<img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/poster_one.png" alt="Suicide distribution" title="Suicide Distribution">
+
+
+
